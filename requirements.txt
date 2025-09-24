@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn[standard]
+python-dotenv
+psycopg[binary]
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
+rasterio>=1.3
+geopandas>=1.0
+gpxpy
+SQLAlchemy>=2.0
+GeoAlchemy2>=0.15
+alembic>=1.13
